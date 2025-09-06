@@ -1,5 +1,0 @@
-requests
-RPi.GPIO
-smbus2
-flask
-spidev
